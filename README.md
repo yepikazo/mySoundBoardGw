@@ -3,7 +3,7 @@ inilah my projek sob
 
 web app based project
 aplikasi ini bertujuan untuk mensimulasikan/membuat soundboard untuk keperluan apalah itu, untuk saat ini masih bersifat statis namun untuk pengkodean sudah menggunakan foreach untuk buttonnya sehingga adaptif jika ingin dibuat dinamis.
-#fitur
+# fitur
 untuk saat ini hanya terdapat 5 sound, yaitu :
 1. acumalaka
 2. amogus
