@@ -14,5 +14,5 @@ untuk saat ini hanya terdapat 5 sound, yaitu :
 untuk kedepanya ketika dibuat dinamis akan ditambahkan kategori dan sistem CRUD
 
 # demo
-jika ingin mencoba bisa kunjungi link ini
+jika ingin mencoba bisa kunjungi link ini [mySoundboardGw](https://yepikazo.github.io/mySoundBoardGw/)
 
