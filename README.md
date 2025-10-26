@@ -1,8 +1,8 @@
 # mySoundBoardGw
 inilah my projek sob
 
-web app based project
-aplikasi ini bertujuan untuk mensimulasikan/membuat soundboard untuk keperluan apalah itu, untuk saat ini masih bersifat statis namun untuk pengkodean sudah menggunakan foreach untuk buttonnya sehingga adaptif jika ingin dibuat dinamis.
+web app based project.
+Aplikasi ini bertujuan untuk mensimulasikan/membuat soundboard untuk keperluan apalah itu, untuk saat ini masih bersifat statis namun untuk pengkodean sudah menggunakan foreach pada buttonnya sehingga adaptif jika ingin dibuat dinamis.
 # fitur
 untuk saat ini hanya terdapat 5 sound, yaitu :
 1. acumalaka
