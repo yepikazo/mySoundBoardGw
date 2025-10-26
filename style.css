@@ -108,13 +108,8 @@ ul li a:hover{
     background-color: #695e5e;
     transition: treansform 0.5s ease;
 }
-
-.sound-button:hover{
-    background-color: #8c7f7f;
-    transform: scale(1.1);
-}
 .sound-button:active{
     background-color: #4b4242;
-    transform: scale(1);
+    transform: scale(0.9);
 
 }
