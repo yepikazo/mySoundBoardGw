@@ -11,8 +11,6 @@ untuk saat ini hanya terdapat 5 sound, yaitu :
 4. brain fart
 5. owi kaget
 
-untuk kedepanya ketika dibuat dinamis akan ditambahkan kategori dan sistem CRUD
-
 # demo
 jika ingin mencoba bisa kunjungi link ini [mySoundboardGw](https://yepikazo.github.io/mySoundBoardGw/)
 
